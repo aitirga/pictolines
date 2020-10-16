@@ -1,0 +1,12 @@
+numpy
+pandas
+python-box
+pyyaml
+tensorflow
+mkdocs
+seaborn
+matplotlib
+scipy
+coverage
+scikit-learn
+json2html
