@@ -10,3 +10,5 @@ scipy
 coverage
 scikit-learn
 json2html
+mkdocs-material
+mkdocstrings
